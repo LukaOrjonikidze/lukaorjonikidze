@@ -1,4 +1,4 @@
-<h1 align="center">I'm Luka</h1>
+<h1 align="center">Black Horse</h1>
 <h3 align="center">Developer from Georgia</h3>
 
 <h3 align="left">Connect with me:</h3>
