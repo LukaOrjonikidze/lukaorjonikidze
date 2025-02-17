@@ -47,4 +47,4 @@ I specialize in **.NET backend development**, but I also have experience with fu
 
 ---
 
-> "Dark horse" — someone who surprises others with their abilities. Let's build something great! 🚀  
+> "Dark horse" — someone who surprises others with their abilities.  
