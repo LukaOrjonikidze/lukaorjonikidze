@@ -43,7 +43,6 @@ I specialize in **.NET backend development**, but I also have experience with fu
 ## 📬 Contact Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lukaorjonikidze/)  
 ✉️ [lukaorjonikidze24@gmail.com](mailto:lukaorjonikidze24@gmail.com)  
-📂 [GitHub](https://github.com/lukaorjonikidze)  
 
 ---
 
