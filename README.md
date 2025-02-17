@@ -24,8 +24,8 @@ I specialize in **.NET backend development**, but I also have experience with fu
 - 👁️ **SASS, SCSS, CSS, Bootstrap**
 
 ### ☁️ Cloud
-- 🌩 **AWS**
-- 🔷 **Microsoft Azure**  
+- <img height="16" src="https://www.pngall.com/wp-content/uploads/13/AWS-Logo-PNG-File.png" /> **AWS**
+- <img height="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png"/> **Microsoft Azure**  
 
 ### 🗄️ Databases
 - 💽 **MySQL, MSSQL, PostgreSQL, MongoDB, SQLite**
